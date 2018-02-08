@@ -1,7 +1,7 @@
 # Finweb
 ## [ CSS - cascading style sheet ] &amp; [ JS - JavaScript  ] - finweb [ Library ]
 # Step 1 :
-	Download The github file from ( https://github.com/arunsakthivel96/qryflt.git )
+	Download The github file from ( https://github.com/arunsakthivel96/Finweb.git )
 # Step 2 :
 	add in your code 
 
