@@ -9,7 +9,7 @@
 # Step 3 : 
 	Use the attribute like
 
-![Alt text](https://github.com/arunsakthivel96/Finweb/blob/master/img-finweb/method.png?raw=true " link add code")
+![Alt text](https://github.com/arunsakthivel96/Finweb/blob/master/img-finweb/method.png?raw=true " Use The Attribute Like This ")
 
 
 # style list 
